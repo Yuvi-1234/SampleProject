@@ -1,0 +1,7 @@
+package org.sample;
+
+public interface RbiBank {
+     void savings();
+     void fixed();
+     }
+	
